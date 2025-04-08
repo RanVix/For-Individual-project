@@ -1,0 +1,9 @@
+disnake
+asyncio
+deep_translator
+requests
+aiohttp
+g4f[all]
+curl-cffi
+nest-asyncio
+segno
